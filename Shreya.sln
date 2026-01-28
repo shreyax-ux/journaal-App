@@ -1,0 +1,47 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shreya", "Shreya", "{BFE69282-F8F5-8BAA-7C75-0FAAB3823FE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "__MACOSX", "__MACOSX", "{9E982F8E-DB0D-AC98-A11B-655EE4BC5F8F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "server", "server", "{824E9DE8-1AA3-8CB8-0DF9-89B844217CAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "personal_Journel", "Shreya\server\personal_Journel.csproj", "{87C94A99-3990-6923-120F-4D42E3C5CD8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shreya", "Shreya", "{9FFE379D-8F0D-FBFD-2537-9BAB461B5D72}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "server", "server", "{7AE1786A-5D3A-2C30-9DA6-50E948DC766A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "._personal_Journel", "__MACOSX\Shreya\server\._personal_Journel.csproj", "{509845F0-10A5-083A-2BFF-0E79DD976C70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87C94A99-3990-6923-120F-4D42E3C5CD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C94A99-3990-6923-120F-4D42E3C5CD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C94A99-3990-6923-120F-4D42E3C5CD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C94A99-3990-6923-120F-4D42E3C5CD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{509845F0-10A5-083A-2BFF-0E79DD976C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509845F0-10A5-083A-2BFF-0E79DD976C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509845F0-10A5-083A-2BFF-0E79DD976C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509845F0-10A5-083A-2BFF-0E79DD976C70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{824E9DE8-1AA3-8CB8-0DF9-89B844217CAE} = {BFE69282-F8F5-8BAA-7C75-0FAAB3823FE1}
+		{87C94A99-3990-6923-120F-4D42E3C5CD8C} = {824E9DE8-1AA3-8CB8-0DF9-89B844217CAE}
+		{9FFE379D-8F0D-FBFD-2537-9BAB461B5D72} = {9E982F8E-DB0D-AC98-A11B-655EE4BC5F8F}
+		{7AE1786A-5D3A-2C30-9DA6-50E948DC766A} = {9FFE379D-8F0D-FBFD-2537-9BAB461B5D72}
+		{509845F0-10A5-083A-2BFF-0E79DD976C70} = {7AE1786A-5D3A-2C30-9DA6-50E948DC766A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5F3D38E-E356-4C79-9C5F-5A4F6A95CA82}
+	EndGlobalSection
+EndGlobal
